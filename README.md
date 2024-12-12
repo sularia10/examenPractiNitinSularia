@@ -2,24 +2,24 @@
 
 Voy a crear un proyecto web con documentos HTML, CSS y JavaScript. Gestionaré el proyecto con Git, utilizaré ramas y publicaré el proyecto.
 
-### 1.Compruebo la versión instalada de Git 
-### 2. Configuro Git en mi sistema (opcional).
-### 3. Muestro la configuración actual para verificarla 
+### Compruebo la versión instalada de Git 
+### Configuro Git en mi sistema (opcional).
+### Muestro la configuración actual para verificarla 
 ![foto1](./fotos/1.png)
 
-### 4. Inicio un nuevo repositorio Git en el directorio de trabajo donde considero. El nombre del directorio es examenPracticaNitinSularia.
+### Inicio un nuevo repositorio Git en el directorio de trabajo donde considero. El nombre del directorio es examenPracticaNitinSularia.
 ![foto2](./fotos/2.png)
 
-### 5. Creo un documento README.md
+### Creo un documento README.md
 ![foto3](./fotos/3.png)
 
-### 6. Contenido de README.md 
+### Contenido de README.md 
 ![foto4](./fotos/4.png)
 
-### 7. Hago un primer commit con el mensaje 1 - Git init.
+### Hago un primer commit con el mensaje 1 - Git init.
 ![foto5](./fotos/5.png)
 
-### 8. Creo los siguientes archivos en el directorio del proyecto:
+### Creo los siguientes archivos en el directorio del proyecto:
 #### index.html || Testunitario.html || style.css || main.js
 ![foto6](./fotos/6.png)
 
