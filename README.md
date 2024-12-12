@@ -6,3 +6,4 @@ El sitio web estará hecho con HTML, CSS y JavaScript, que son tecnologías
 fundamentales para el desarrollo web.
 
 
+![foto1](./fotos/1.png)
